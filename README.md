@@ -48,7 +48,7 @@ If you prefer to install the module using [git](https://git-scm.com/), run the
 following commands in your project root directory:
 
     composer config repositories.wagento-module-meetup git git@github.com:sanjay-wagento/wagento-module-meetup.git
-        composer require wagento/module-meetup:2.2.*
+    composer require wagento/module-meetup:2.2.*
 
 ### Enable Module ###
 Once the source files are available, make them known to the application:
