@@ -1,7 +1,7 @@
 Wagento Meetup module for composer demo
 ======================
 
-This module for composer demo
+This module for composer demos
 
 Facts
 -----
